@@ -1,13 +1,6 @@
-[1.6]
-[+] Login system revamp
-[+] Browser Credentials Stealing revamp
-[+] Web Discord Token stealing revamp
-[+] Embed info sending (able to choose colors)
-[+] Minecraft Accounts Profile stealing
-[+] Added tooltips when you hover over features
-[+] Added Webhook tester
-[+] Added Automatic Anti-Sandboxie to stealers
-[~] Rift is paid again
-[-] Temporarily disabled token nuker
+[2.1]
+[+] Fixed Web Token Stealing
+[+] Fixed decryption of Saved Passwords, Cookies, Desktop Screenshot and Web Tokens
+[+] Added Token Nuker
 
 Upcoming updates:
