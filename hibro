@@ -1,6 +1,7 @@
-[2.1]
-[+] Fixed Web Token Stealing
-[+] Fixed decryption of Saved Passwords, Cookies, Desktop Screenshot and Web Tokens
-[+] Added Token Nuker
+[2.2]
+[+] Precompiled stub
+[+] Improved obfuscation
+[-] Temporarily removed plugins
 
 Upcoming updates:
+Plugins
