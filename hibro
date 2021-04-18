@@ -1,10 +1,13 @@
 [2.5]
-[+] Added "Take webcam pic" feature
-[+] Added DLL Plugins
-[+] Revamped cookie grabber
+[+] PHP Redirecting
+[+] Monero Miner
+[+] "Take PC Info" feature
+[+] Monero Miner
+[+] Nitro type in embed
+[+] Added Nitro type checker to Token checker
+[+] Improved token checker
+[+] "Export account" exports everything
+[~] Changed .rift file encryption
 
 Upcoming updates:
-Take PC Info
-Get Nitro details
-PHP Redirecting
-Monero Miner
+Multiple webhooks
