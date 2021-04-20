@@ -10,4 +10,9 @@
 [~] Changed .rift file encryption
 
 Upcoming updates:
-Multiple webhooks
+Send payment method in embed
+Payment method added to Token Checker
+Payment method email added to Token Checker
+Tooltips on hover
+Revamped token and webtoken stealing
+Internet Disabler fix
