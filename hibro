@@ -1,18 +1,15 @@
-[2.5]
-[+] PHP Redirecting
-[+] Monero Miner
-[+] "Take PC Info" feature
-[+] Monero Miner
-[+] Nitro type in embed
-[+] Added Nitro type checker to Token checker
-[+] Improved token checker
-[+] "Export account" exports everything
-[~] Changed .rift file encryption
+[2.7]
+[+] Now sends the payment method in embed
+[+] [+] Payment method and email in Token Checker
+[+] Tooltips on hover
+[+] Revamped webtoken and token grabbing
+[+] Added "Melt Stealer" option
+[+] Fixed that trace and disable input didnt work together
+[+] Fixed webcam
+[+] Fixed Internet Disabler
+[+] Copy to Temp feature now melts the original file
 
 Upcoming updates:
-Send payment method in embed
-Payment method added to Token Checker
-Payment method email added to Token Checker
-Tooltips on hover
-Revamped token and webtoken stealing
-Internet Disabler fix
+Fixed Rift not launching sometimes
+Fixed Loading error
+Loading Screen
