@@ -1,15 +1,10 @@
-[2.7]
-[+] Now sends the payment method in embed
-[+] [+] Payment method and email in Token Checker
-[+] Tooltips on hover
-[+] Revamped webtoken and token grabbing
-[+] Added "Melt Stealer" option
-[+] Fixed that trace and disable input didnt work together
-[+] Fixed webcam
-[+] Fixed Internet Disabler
-[+] Copy to Temp feature now melts the original file
+[3.0]
+[+] Added "Take wifi passwords"
+[+] Added "Take browser history"
+[+] Added "Anti duplicate"
+[+] Added Minimize button
+[+] Mines now mines using GPU
+[+] Small design changes
+[+] Bug fixes
 
 Upcoming updates:
-Fixed Rift not launching sometimes
-Fixed Loading error
-Loading Screen
